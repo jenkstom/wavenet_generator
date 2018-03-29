@@ -12,5 +12,5 @@ mpg321 you can uncomment the convert line and it will also create WAV files for 
 You might have to tweak the command to create the proper WAV files for your PBX,
 but this is working for me on freeswitch.
 
-You will need to enable the TTS API and put your API key into the script for it 
-to work.
+You will need to enable the TTS API on https://cloud.google.com and put your API key 
+into the script for it to work.
